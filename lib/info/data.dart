@@ -31,6 +31,27 @@ final List<Map<String, dynamic>> coding=[
     'label': 'SQL'
   },
 ] ;
+final List<Map<String, dynamic>> projects=[
+  {
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,'
+  }, {
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,++'
+  }, {
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,'
+  },{
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,'
+  },{
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,'
+  },{
+    'Name':"E-Commerce",
+    'Description': 'fkffhfbghbfskdjsdflsdfnlvnvfsjnl.fsjs.sjfbfbgk.dfbggbcvnxv,'
+  },
+] ;
 final List<String> knowledge=[
   "Getx,Provider,Bloc",
   "Sqflite, Hive, Get Storage",
